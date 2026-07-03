@@ -2,159 +2,148 @@
 
 <h3 align="center">
 Building software, solving problems, and learning every day.
-<br>
-Aspiring Software Engineer • C++ Developer • Frontend Learner
 </h3>
 
 <p align="center">
-  <a href="https://github.com/du2711">
-    <img src="https://komarev.com/ghpvc/?username=du2711&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  </a>
+Aspiring Software Engineer • C++ Developer • Problem Solver
+</p>
+
+<p align="center">
+<a href="https://github.com/du2711">
+<img src="https://komarev.com/ghpvc/?username=du2711&label=Profile%20Views&color=0e75b6&style=flat" />
+</a>
+
+<a href="https://leetcode.com/u/du_1127/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat&logo=leetcode"/>
+</a>
+
+<a href="https://www.linkedin.com/in/deepanshu-upadhyay-46a839368">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin"/>
+</a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 Diploma in Information Technology (5th Semester)  
-🏫 Government Polytechnic, Ghaziabad  
+🎓 Diploma in Information Technology  
+🏫 Government Polytechnic, Ghaziabad
+
 📈 Current CGPA: **8.4**
 
-I'm passionate about software development and enjoy solving problems using **C++**. I'm currently strengthening my **Data Structures & Algorithms** skills while building practical projects and improving my understanding of software engineering fundamentals.
+I enjoy solving problems using **C++**, learning **Data Structures & Algorithms**, and building practical software projects.
 
-I'm also exploring **Frontend Development**, Git workflows, and backend concepts to become a well-rounded software engineer.
+Currently I'm improving my problem-solving skills while exploring **Frontend Development**, **SQL**, and software engineering fundamentals.
+
+My goal is to become a Software Engineer who builds reliable, efficient, and scalable software.
 
 ---
 
-## 🚀 Current Focus
+# 🚀 Current Focus
 
-- 💻 Solving LeetCode problems consistently
-- 📚 Learning Dynamic Programming and advanced DSA
-- ⚙️ Improving C++ and STL
+- 💻 Solving LeetCode consistently
+- 📚 Learning Dynamic Programming
+- ⚙️ Mastering C++ & STL
 - 🌐 Building Frontend Projects
-- 🗄 Strengthening SQL & Database concepts
-- 🌱 Preparing for Software Engineering roles
+- 🗄 Strengthening SQL
+- 🚀 Building practical software projects
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python"/>
+
 </p>
 
-### Web Technologies
+### Web
 
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=html,css"/>
+
 </p>
 
 ### Database
 
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
 </p>
 
 ### Tools
 
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=du2711&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=du2711&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=du2711&theme=tokyonight&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 </p>
 
 ---
 
-## 💻 Coding Profiles
+# 📌 Featured Projects
 
-<p align="left">
-
-<a href="https://leetcode.com/u/du_1127/">
-<img src="https://img.shields.io/badge/LeetCode-20%20Solved-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.linkedin.com/in/deepanshu-upadhyay-46a839368">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:deepanshuupadhyay603@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+| Project | Description |
+|----------|-------------|
+| 🚀 **[Projects in C++](https://github.com/du2711/Projects-in-Cpp)** | C++ programs covering arrays, matrices, recursion, STL, sorting, searching and more. |
+| 💡 **[LeetCode Solutions](https://github.com/du2711/LeetCode-Solutions)** | Clean and well-structured C++ solutions for LeetCode problems. |
+| 📘 **[Beginner Projects in C](https://github.com/du2711/Beginner-Projects-in-C-)** | Beginner-friendly C programs covering programming fundamentals. |
+| 🖥 **[Beginner Project](https://github.com/du2711/Beginner-Project)** | Frontend mini-projects built while learning HTML, CSS and JavaScript. |
 
 ---
 
-## 📚 Learning Journey
+# 📈 Current Progress
 
-- ✅ C Programming
-- ✅ C++
-- ✅ Object-Oriented Programming
-- ✅ HTML & CSS
-- ✅ Git & GitHub
-- ✅ SQL Basics
-- 🔄 STL
-- 🔄 Recursion
-- 🔄 Dynamic Programming
-- ⏳ Trees
-- ⏳ Graphs
-- ⏳ Frontend Development
-- ⏳ C# & .NET
+```text
+Programming
+██████████  C
+██████████  C++
+████████░░  Python
+████████░░  HTML/CSS
 
----
+DSA
+████████░░  Arrays
+████████░░  Strings
+███████░░░  Recursion
+█████░░░░░  Dynamic Programming
 
-## 📌 Featured Repositories
-
-- 📚 **DSA in C++**
-- 💻 **DSA in C**
-- 🧮 **Beginner Projects**
-- ⚡ **LeetCode Solutions**
+Development
+████████░░  Git & GitHub
+███████░░░  SQL
+██████░░░░  Frontend
+```
 
 ---
 
-## 📈 2026 Goals
+# 🎯 2026 Goals
 
-- 🎯 Solve **100+ LeetCode** problems
-- 🚀 Build **3 quality software projects**
-- 🌱 Contribute to Open Source
-- 📚 Master Data Structures & Algorithms
-- 💼 Prepare for Software Engineering internships and placements
+- ✅ Solve 100+ LeetCode problems
+- ✅ Build 3 quality software projects
+- ✅ Strengthen Data Structures & Algorithms
+- ✅ Contribute to Open Source
+- ✅ Prepare for Software Engineering placements
 
 ---
 
-## 🤝 Let's Connect
+# 🌐 Connect With Me
 
 <p>
 
+<a href="mailto:deepanshuupadhyay603@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 <a href="https://www.linkedin.com/in/deepanshu-upadhyay-46a839368">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:deepanshuupadhyay603@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://leetcode.com/u/du_1127/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 </p>
@@ -163,10 +152,10 @@ I'm also exploring **Frontend Development**, Git workflows, and backend concepts
 
 <div align="center">
 
-### 💭 Quote
+### 💭 Personal Motto
 
-*"Consistency beats intensity. Every commit is a step toward becoming a better engineer."*
+> *"Consistency beats intensity. Every commit is a step toward becoming a better engineer."*
 
-⭐ Thanks for visiting my profile!
+Thanks for visiting my profile! ⭐
 
 </div>
