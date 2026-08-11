@@ -90,9 +90,9 @@ My goal is to become a Software Engineer who builds reliable, efficient, and sca
 
 | Project | Description |
 |----------|-------------|
-| 🚀 **[Projects in C++](https://github.com/du2711/Projects-in-Cpp)** | C++ programs covering arrays, matrices, recursion, STL, sorting, searching and more. |
+| 🚀 **[DSA in C++](https://github.com/du2711/Projects-in-Cpp)** | C++ programs covering arrays, matrices, recursion, STL, sorting, searching and more. |
 | 💡 **[LeetCode Solutions](https://github.com/du2711/LeetCode-Solutions)** | Clean and well-structured C++ solutions for LeetCode problems. |
-| 📘 **[Beginner Projects in C](https://github.com/du2711/Beginner-Projects-in-C-)** | Beginner-friendly C programs covering programming fundamentals. |
+| 📘 **[Data Structure & Algorithms in C](https://github.com/du2711/Beginner-Projects-in-C-)** | Beginner-friendly C programs covering programming fundamentals. |
 | 🖥 **[Beginner Project](https://github.com/du2711/Beginner-Project)** | Frontend mini-projects built while learning HTML, CSS and JavaScript. |
 
 ---
