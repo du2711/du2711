@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Deepanshu Upadhyay</h1>
+<h1 align="center">Hi, I'm Deepanshu Upadhyay</h1>
 
 <h3 align="center">
 Building software, solving problems, and learning every day.
@@ -24,12 +24,11 @@ Aspiring Software Engineer • C++ Developer • Problem Solver
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 🎓 Diploma in Information Technology  
-🏫 Government Polytechnic, Ghaziabad
 
-📈 Current CGPA: **8.4**
+Current CGPA: **8.4**
 
 I enjoy solving problems using **C++**, learning **Data Structures & Algorithms**, and building practical software projects.
 
@@ -39,14 +38,14 @@ My goal is to become a Software Engineer who builds reliable, efficient, and sca
 
 ---
 
-# 🚀 Current Focus
+# Current Focus
 
-- 💻 Solving LeetCode consistently
-- 📚 Learning Dynamic Programming
-- ⚙️ Mastering C++ & STL
-- 🌐 Building Frontend Projects
-- 🗄 Strengthening SQL
-- 🚀 Building practical software projects
+-  Solving LeetCode consistently
+-  Learning Dynamic Programming
+-  Mastering C++ & STL
+-  Building Frontend Projects
+-  Strengthening SQL
+-  Building practical software projects
 
 ---
 
@@ -86,18 +85,18 @@ My goal is to become a Software Engineer who builds reliable, efficient, and sca
 
 ---
 
-# 📌 Featured Projects
+# Featured Projects
 
 | Project | Description |
 |----------|-------------|
-| 🚀 **[DSA in C++](https://github.com/du2711/Projects-in-Cpp)** | C++ programs covering arrays, matrices, recursion, STL, sorting, searching and more. |
-| 💡 **[LeetCode Solutions](https://github.com/du2711/LeetCode-Solutions)** | Clean and well-structured C++ solutions for LeetCode problems. |
-| 📘 **[Data Structure & Algorithms in C](https://github.com/du2711/Beginner-Projects-in-C-)** | Beginner-friendly C programs covering programming fundamentals. |
-| 🖥 **[Beginner Project](https://github.com/du2711/Beginner-Project)** | Frontend mini-projects built while learning HTML, CSS and JavaScript. |
+|  **[DSA in C++](https://github.com/du2711/Projects-in-Cpp)** | C++ programs covering arrays, matrices, recursion, STL, sorting, searching and more. |
+|  **[LeetCode Solutions](https://github.com/du2711/LeetCode-Solutions)** | Clean and well-structured C++ solutions for LeetCode problems. |
+|  **[Data Structure & Algorithms in C](https://github.com/du2711/Beginner-Projects-in-C-)** | Beginner-friendly C programs covering programming fundamentals. |
+|  **[Beginner Project](https://github.com/du2711/Beginner-Project)** | Frontend mini-projects built while learning HTML, CSS and JavaScript. |
 
 ---
 
-# 📈 Current Progress
+# Current Progress
 
 ```text
 Programming
@@ -130,7 +129,7 @@ Development
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p>
 
@@ -156,6 +155,6 @@ Development
 
 > *"Consistency beats intensity. Every commit is a step toward becoming a better engineer."*
 
-Thanks for visiting my profile! ⭐
+Thanks for visiting my profile! 
 
 </div>
