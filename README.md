@@ -121,7 +121,6 @@ Development
 
 # 🎯 2026 Goals
 
-- ✅ Solve 100+ LeetCode problems
 - ✅ Build 3 quality software projects
 - ✅ Strengthen Data Structures & Algorithms
 - ✅ Contribute to Open Source
